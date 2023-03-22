@@ -1,0 +1,12 @@
+.day {
+  text-align: center;
+}
+
+.day:hover {
+  background-color: #f4f4f4;
+  cursor: pointer;
+}
+
+.header {
+  background-color: #f4f4f4 !important;
+}
